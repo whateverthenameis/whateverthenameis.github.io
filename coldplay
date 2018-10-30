@@ -1,0 +1,67 @@
+# whateverthenameis.github.io
+project website
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Project: Website Assignment </title>
+    </head>
+    <body>
+    <h1>Coldplay</h1>
+    < img src=” >     
+        <h3>Basic informantion</h3>
+        <p id="CSinfo"> <em>Coldplay</em> are a British rock band formed in 1996 by lead singer and pianist Chris Martin and 
+        lead guitarist Jonny Buckland at University College London (UCL).Coldplay have won <strong>107 awards</strong> from 252 nominations
+        throughout their career, including nine Brit Awards, six MTV Video Music Awards, seven MTV Europe Music Awards and
+        seven Grammy Awards from 32 nominations. They have sold more than 100 million records worldwide, making them one of
+        the world's best-selling music artists.
+        </p >
+        <h3>Members</h3>
+        <ul>
+           <li>
+           <strong id="CSmem">Guy Berryman</strong><br></li>
+        Guy Rupert Berryman (born 12 April 1978) is a Scottish musician, multi-instrumentalist,
+        and record producer. He is the bassist for the bands Coldplay and Apparatjik. Though Berryman
+        is left-handed, he plays the bass right-handed.<br>
+        <li>
+        <strong id="CSmem">Jonny Buckland</strong> <br></li>
+        Jonathan Mark Buckland (born 11 September 1977) is a Welsh musician and multi-instrumentalist. 
+        He is the lead guitarist and co-founder of the rock band Coldplay.</br>
+        <li>
+        <strong id="CSmem">Will Champion</strong> <br></li>
+        William Champion is an English musician, multi-instrumentalist, and songwriter. 
+        He is best known as the drummer and backing vocalist for the rock band Coldplay.</br>
+        <li>
+        <strong id="CSmem">Chris Martin</strong> <br></li>
+        Christopher Anthony John Martin (born 2 March 1977)is an English singer, songwriter,
+        musician, record producer, and philanthropist. He is the lead singer and co-founder of 
+        the rock band Coldplay. Born in Exeter in Devon, Martin went to University College London
+        where he formed a rock band with Jonny Buckland in 1996 called Pectoralz, which was eventually
+        renamed Coldplay in 1998.</br>
+        <table>
+        <thead><tr>
+        <th>album title</th>
+        <th>album cover picture</th>
+        <th>short description</th></tr></thead>
+        <tbody>
+        <tr>
+        <td><a href="http://gracehopper.org/">A Rush of Blood to the Head</a></td>
+        <td><img scr="></td>
+        <td>The second studio album by British rock band Coldplay.</td>
+        </tr>
+        <tr>
+        <td>Parachutes</td>
+        <td></td>
+        <td>Parachutes is the debut studio album by the British rock band Coldplay.</td>
+        </tr>
+        <tr>
+        <td>X&Y</td>
+        <td></td>
+        <td>X&Y (stylized as X & Y) is the third studio album by the British rock band Coldplay. </td>
+        </tr>
+        </tbody>
+        </table>  
+    </body>
+</html>
+     
+     
